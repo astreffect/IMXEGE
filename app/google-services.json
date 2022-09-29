@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "932035282557",
+    "project_id": "imxege-official",
+    "storage_bucket": "imxege-official.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:932035282557:android:56c3015fbb0b8e989ad314",
+        "android_client_info": {
+          "package_name": "in.rkmgeccse.imxege"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "932035282557-d9i50rls9afnbrn60lp0kepbjscq1frm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.rkmgeccse.imxege",
+            "certificate_hash": "4dab6e4834fa6aa423c3e9626611b2fea0393df1"
+          }
+        },
+        {
+          "client_id": "932035282557-doq4ctbhihpjb406bc0n3bueadr1bhov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPnKpkd5Vn7PdZyvYhyPZmIKjhX7sqE-Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "932035282557-doq4ctbhihpjb406bc0n3bueadr1bhov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
